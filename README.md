@@ -1,6 +1,6 @@
 # CodeceptJS Test Automation Framework (Playwright + REST + TypeScript)
 
-This repository contains a modular automation framework built with [CodeceptJS](https://codecept.io/), [Playwright](https://playwright.dev/), and [TypeScript](https://www.typescriptlang.org/) to cover both UI and API test scenarios. It includes Allure reporting, reusable helpers, and DRY principles for maintainability.
+This repository contains a modular automation framework built with [CodeceptJS](https://codecept.io/), [Playwright](https://playwright.dev/), and [TypeScript](https://www.typescriptlang.org/) to cover both WEB and API test scenarios. It includes Allure reporting, reusable helpers, and DRY principles for maintainability.
 
 ---
 
