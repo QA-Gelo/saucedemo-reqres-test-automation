@@ -18,8 +18,8 @@ If you're not using Git, you can still run the project locally:
 **Option 2: Clone Using Git**
 
 1. Install Git for Windows Download from git-scm.com and install it. During setup, make sure to select:
-    “Use Git from the command line and also from 3rd-party software”
-    “Checkout Windows-style, commit Unix-style line endings” (default)
+    > “Use Git from the command line and also from 3rd-party software”
+    > “Checkout Windows-style, commit Unix-style line endings” (default)
 2. Open CMD or PowerShell. Press Win + R, type cmd, and hit Enter or search for PowerShell.
 3. Run the clone command
     > git clone https://github.com/QA-Gelo/saucedemo-reqres-test-automation.git
