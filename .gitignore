@@ -1,0 +1,15 @@
+node_modules/
+output/
+allure-results/
+allure-report/
+allure-reports/
+*.log
+*.tmp
+*.tsbuildinfo
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+coverage/
+.env
+.env.local
