@@ -4,6 +4,26 @@ This repository contains a modular automation framework built with [CodeceptJS](
 
 ---
 
+# Quick Start Guide
+
+**Option 1: Download Without Git (ZIP Method)**
+
+If you're not using Git, you can still run the project locally:
+
+1. Go to the repository: https://github.com/QA-Gelo/saucedemo-reqres-test-automation
+2. Click the green “Code” button → “Download ZIP”.
+3. Extract the ZIP file.
+4. Open the project folder in Visual Studio Code.
+
+**Option 2: Clone Using Git**
+
+1. Install Git for Windows Download from git-scm.com and install it. During setup, make sure to select:
+    “Use Git from the command line and also from 3rd-party software”
+    “Checkout Windows-style, commit Unix-style line endings” (default)
+2. Open CMD or PowerShell. Press Win + R, type cmd, and hit Enter or search for PowerShell.
+3. Run the clone command
+    > git clone https://github.com/QA-Gelo/saucedemo-reqres-test-automation.git
+
 ## 📦 Tech Stack
 
 - CodeceptJS
